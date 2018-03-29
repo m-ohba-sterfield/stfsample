@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+/*   
+Theme Name: sterfield
+Theme URI: sterfield
+Description: sterfieldのテーマです。
+Author: sterfield
+Author URI: URI
+
+*/
+
+@import "css/reset.css";
+@import "css/fix.css";
+@import "css/gnavi.css";
+@import "css/second.css";
+@import "css/media-queries.css";
